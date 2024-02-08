@@ -1,0 +1,19 @@
+1)Generic Customer Appointment Remainder          (8 hours before)
+2)Employee Appointment Remainder                  (2 hours before)
+3)Significant Increase in sale
+4)Reward Point remainder
+5)Low Inventory Admin Remainder
+6)Low InventoryManager Remainder
+7)Customer Appointment Confirmation (After booking Appointment)
+8)Employee Appointment Confirmation (After booking Appointment)
+9)Customer Appointment Cancellation
+10)Employee Appointment Cancellation
+11)Employee  Schedule Changed (After Edited schedule)
+12)Hourly Customer Appointment Remainder (2 hours before)
+
+
+
+
+helen@yopmail.com (Employee)
+tonystark@yopmail.com (Manager)
+chrishemsworth@yopmail.com(Admin)
